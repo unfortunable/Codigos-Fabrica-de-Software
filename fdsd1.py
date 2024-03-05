@@ -15,7 +15,7 @@ nota2 = float(input('Qual a nota do segundo aluno? '))
 nota3 = float(input('Qual a nota do terceiro aluno? '))
 nota4 = float(input('Qual a nota do quarto aluno? '))
 nota5 = float(input('Qual a nota do quinto aluno? '))
-media = (nota1+nota2+nota3+nota4+nota5)/2
+media = (nota1+nota2+nota3+nota4+nota5)/5
 print('A média dos 5 alunos é {}'.format(media))
 
 #Desafio 3
